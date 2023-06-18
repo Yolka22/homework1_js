@@ -1,0 +1,1 @@
+alert(2023 - prompt("enter year of birth",''));
